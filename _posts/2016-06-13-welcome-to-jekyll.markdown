@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-06-13 10:51:47 +0530
+title:  "Nature's Bounty Hair Skin"
+date:   2017-07-28 00:18:47 +0530
 categories: jekyll update
-img: image-1.png
+img: Hair_Skin.jpg
 categories: [one, two]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hair, Skin & Nails Gummies with Biotin help to maintain the health of normal hair and skin and support nail health. 
+Biotin helps the body to metabolize carbohydrates, fats and proteins into an energy source for cellular activity. Our unique formula also helps in the development and maintenance of bones, cartilage, teeth and gums. Not to mention it helps in connective tissue formation and wound healing.
+All this in a delicious, naturally flavoured, strawberry gummy.
 
 Jekyll also offers powerful support for code snippets:
 

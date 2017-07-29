@@ -22,8 +22,8 @@ default-image: webjeda-logo-big.jpg # If there is no featured image in a post th
 #footer
 built-by: webjeda
 copyright:
-   name: webjeda
-   link: 'http://blog.webjeda.com'
+   name: Bajin
+   link: 'https://jinfuchen.github.io/supply/'
 
 # Build settings
 markdown: kramdown
@@ -41,7 +41,7 @@ disqus-shortname: webjeda-demo
 facebook: http://facebook.com/webjeda
 quora: http://quora.com/sharathdt
 twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
+github: https://jinfuchen.github.io/supply/
 
 #facebook like box
 fb-app-id: 549480635219583
