@@ -6,9 +6,7 @@ categories: jekyll update
 img: Hair_Skin.jpg
 categories: [one, two]
 ---
-#Hair, Skin & Nails Gummies with Biotin help to maintain the health of normal hair and skin and support nail health. 
-#Biotin helps the body to metabolize carbohydrates, fats and proteins into an energy source for cellular activity. Our unique formula also helps in the #development and maintenance of bones, cartilage, teeth and gums. Not to mention it helps in connective tissue formation and wound healing.
-#All this in a delicious, naturally flavoured, strawberry gummy.
+加拿大软糖，直邮
 专为女性打造自然美丽的头发，皮肤和指甲。专门针对头发、皮肤、指甲养护，23种营养复合养护。
 为女性创造出一种独特的方式从而帮助您从内部获得自然美。天然风味的草莓让您爱不释手。
 有助于保持正常的头发和皮肤的健康。
